@@ -1,7 +1,7 @@
 onnx == 1.5.0
 jupyterlab == 0.35.6
 cython == 0.29.10
-pillow == 5.4.1
+pillow == 6.2.0
 requests == 2.22.0
 matplotlib
 numpy
