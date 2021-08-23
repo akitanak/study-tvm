@@ -1,5 +1,5 @@
 onnx == 1.5.0
-jupyterlab == 0.35.6
+jupyterlab == 1.2.21
 cython == 0.29.10
 pillow == 5.4.1
 requests == 2.22.0
